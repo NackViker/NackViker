@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NackViker
 - 👀 I’m interested in C#, Sql Server, Html, Oracle DB, React, Angular, Node.js
-- 🌱 I’m currently learning Nucba Fullstack Developer, Engineering Systems.
-- 💞️ I’m looking to collaborate on c# .net core
+- 🌱 I’m currently Fullstack Developer, Engineering Systems.
+- 💞️ I’m looking to collaborate on c# .net core and much more
 - 📫 How to reach me ...
 - 😄 Pronouns: Nack Viker
 - ⚡ Fun fact: ...
